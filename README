@@ -1,1 +1,5 @@
-void
+
+A collection of various C++ bits and pieces that the contributors think
+are worth sharing with the rest of the world.
+
+All source code is licensed under the 3-clause BSD license.

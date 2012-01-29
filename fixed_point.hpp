@@ -32,7 +32,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 
 This source code uses C++11 language and library features and thus requires
-a compiler and a STL implementation that supports C++11.
+a compiler and an STL implementation that supports C++11.
 
 Known to work:
   GCC 4.7, libstdc++-v3

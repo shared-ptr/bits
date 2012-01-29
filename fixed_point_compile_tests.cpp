@@ -119,7 +119,6 @@ fxpt_16_16 test_05 (fxpt_16_16 a)
   return std::abs (a);
 }
 
-
 fxptu_16_16 test_06 (fxptu_16_16 a)
 {
   return std::abs (a);	// results in a no operation
