@@ -32,7 +32,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 
 Example how to compile this file:
-  g++ -std=c++11 -O2 fixed_point_compile_test.cpp
+  g++ -std=c++11 -O2 fixed_point_compile_tests.cpp
 
 --------------------------------------------------------------------------------
 */
